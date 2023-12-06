@@ -1,7 +1,5 @@
 ### Hello, World! 👋
 
-<!--
-**JoaoFelipin/JoaoFelipin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ##📝 About Me
 I am a data scientist working in the financial market, with a background in civil engineering and currently pursuing a master's degree in statistics. I´m passionated about solving problems and letting my creativity guides me trhough the world.****
 Here are some ideas to get you started:
