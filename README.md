@@ -8,7 +8,7 @@
 
 - **Programming Languages**: Python, R, SQL
 - **Libraries / Frameworks**: Pandas, NumPy, Scikit-learn, statsmodels, NetworkX, Apache Spark
-- **Data Visualization Tools**: Matplotlib, Seaborn, PBI
+- **Data Visualization Tools**: Matplotlib, Seaborn, PBI, Plotly
 
 ## 📫 Contact Me
 
