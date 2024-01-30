@@ -7,7 +7,7 @@
 ## 🛠️ Technical Skills
 
 - **Programming Languages**: Python, R, SQL
-- **Libraries / Frameworks**: Pandas, NumPy, Scikit-learn, statsmodels, NetworkX, PySpark, Streamlit
+- **Libraries / Frameworks**: Pandas, NumPy, Scikit-learn, statsmodels, NetworkX, PySpark, Streamlit, MLFlow
 - **Data Visualization Tools**: Matplotlib, Seaborn, PBI, Plotly
 
 ## 📫 Contact Me
