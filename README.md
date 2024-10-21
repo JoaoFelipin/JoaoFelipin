@@ -1,7 +1,7 @@
 ### Hello, World! 👋
 
 ## 📝 About Me
-**I am a data scientist working in the financial market, with a background in civil engineering and currently pursuing an MBA in advanced analytics and business optmization. I´m passionated about solving problems and letting my creativity guides me trhough the world.**
+**I am a data analyst, with a background in civil engineering and currently pursuing an MBA in advanced analytics and business optmization. I´m passionated about solving problems and letting my creativity guides me trhough the world.**
 
 
 ## 🛠️ Technical Skills
